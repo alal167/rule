@@ -1,53 +1,54 @@
-- DOMAIN,chdbits.xyz,DIRECT
-- DOMAIN,discfan.net,DIRECT
-- DOMAIN,discfan.xyz,DIRECT
-- DOMAIN,hdatmos.club,DIRECT
-- DOMAIN,hdfans.org,DIRECT
-- DOMAIN,hdhome.org,DIRECT
-- DOMAIN,hdpt.xyz,DIRECT
-- DOMAIN,hdvideo.one,DIRECT
-- DOMAIN,hhanclub.top,DIRECT
-- DOMAIN,ipv4.joyhd.net,DIRECT
-- DOMAIN,on.springsunday.net,DIRECT
-- DOMAIN,pt.btschool.club,DIRECT
-- DOMAIN,pt.ourhelp.club,DIRECT
-- DOMAIN,ptchdbits.co,DIRECT
-- DOMAIN,ptchina.org,DIRECT
-- DOMAIN,ptsbao.club,DIRECT
-- DOMAIN,rousi.zip,DIRECT
-- DOMAIN,t.audiences.me,DIRECT
-- DOMAIN,t.hdhome.org,DIRECT
-- DOMAIN,t.pthome.net,DIRECT
-- DOMAIN,t.pthome.org,DIRECT
-- DOMAIN,tracker.52dic.vip,DIRECT
-- DOMAIN,tracker.open.cd,DIRECT
-- DOMAIN,tracker.carpt.net,DIRECT
-- DOMAIN,tracker.cinefiles.info,DIRECT
-- DOMAIN,tracker.hdarea.club,DIRECT
-- DOMAIN,tracker.hdkyl.in,DIRECT
-- DOMAIN,tracker.hdsky.me,DIRECT
-- DOMAIN,tracker.hdtime.org,DIRECT
-- DOMAIN,tracker.hhan.club,DIRECT
-- DOMAIN,tracker.keepfrds.com,DIRECT
-- DOMAIN,tracker.leaves.red,DIRECT
-- DOMAIN,tracker.m-team.cc,DIRECT
-- DOMAIN,tracker.m-team.io,DIRECT
-- DOMAIN,tracker.nanyangpt.com,DIRECT
-- DOMAIN,tracker.ptchdbits.co,DIRECT
-- DOMAIN,tracker.pterclub.com,DIRECT
-- DOMAIN,tracker.rainbowisland.co,DIRECT
-- DOMAIN,tracker.totheglory.im,DIRECT
-- DOMAIN,tracker.zhuque.in,DIRECT
-- DOMAIN,tracker01.ilovelemonhd.me,DIRECT
-- DOMAIN,tracker2.leaves.red,DIRECT
-- DOMAIN,tracker3.leaves.red,DIRECT
-- DOMAIN,tracker-public.tjupt.org,DIRECT
-- DOMAIN,www.gamegamept.com,DIRECT
-- DOMAIN,www.hdkylin.top,DIRECT
-- DOMAIN,www.hdkylin.top,DIRECT
-- DOMAIN,www.htpt.cc,DIRECT
-- DOMAIN,www.nicept.net,DIRECT
-- DOMAIN,www.oshen.win,DIRECT
-- DOMAIN,www.pttime.org,DIRECT
-- DOMAIN,t.hddolby.com,DIRECT
-- DOMAIN,tracker.cinefiles.info,DIRECT
+payload:
+  - DOMAIN-SUFFIX,chdbits.xyz
+  - DOMAIN-SUFFIX,discfan.net
+  - DOMAIN-SUFFIX,discfan.xyz
+  - DOMAIN-SUFFIX,hdatmos.club
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdpt.xyz
+  - DOMAIN-SUFFIX-SUFFIX,hdvideo.one
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,ipv4.joyhd.net
+  - DOMAIN-SUFFIX,on.springsunday.net
+  - DOMAIN-SUFFIX,pt.btschool.club
+  - DOMAIN-SUFFIX,pt.ourhelp.club
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,ptchina.org
+  - DOMAIN-SUFFIX,ptsbao.club
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,t.audiences.me
+  - DOMAIN-SUFFIX,t.hdhome.org
+  - DOMAIN-SUFFIX,t.pthome.net
+  - DOMAIN-SUFFIX,t.pthome.org
+  - DOMAIN-SUFFIX,tracker.52dic.vip 
+  - DOMAIN-SUFFIX,tracker.open.cd 
+  - DOMAIN-SUFFIX,tracker.carpt.net 
+  - DOMAIN-SUFFIX,tracker.cinefiles.info 
+  - DOMAIN-SUFFIX,tracker.hdarea.club 
+  - DOMAIN-SUFFIX,tracker.hdkyl.in 
+  - DOMAIN-SUFFIX,tracker.hdsky.me 
+  - DOMAIN-SUFFIX,tracker.hdtime.org 
+  - DOMAIN-SUFFIX,tracker.hhan.club 
+  - DOMAIN-SUFFIX,tracker.keepfrds.com 
+  - DOMAIN-SUFFIX,tracker.leaves.red 
+  - DOMAIN-SUFFIX,tracker.m-team.cc 
+  - DOMAIN-SUFFIX,tracker.m-team.io 
+  - DOMAIN-SUFFIX,tracker.nanyangpt.com 
+  - DOMAIN-SUFFIX,tracker.ptchdbits.co 
+  - DOMAIN-SUFFIX,tracker.pterclub.com 
+  - DOMAIN-SUFFIX,tracker.rainbowisland.co 
+  - DOMAIN-SUFFIX,tracker.totheglory.im 
+  - DOMAIN-SUFFIX,tracker.zhuque.in 
+  - DOMAIN-SUFFIX,tracker01.ilovelemonhd.me 
+  - DOMAIN-SUFFIX,tracker2.leaves.red 
+  - DOMAIN-SUFFIX,tracker3.leaves.red 
+  - DOMAIN-SUFFIX,tracker-public.tjupt.org 
+  - DOMAIN-SUFFIX,www.gamegamept.com 
+  - DOMAIN-SUFFIX,www.hdkylin.top 
+  - DOMAIN-SUFFIX,www.hdkylin.top 
+  - DOMAIN-SUFFIX,www.htpt.cc 
+  - DOMAIN-SUFFIX,www.nicept.net 
+  - DOMAIN-SUFFIX,www.oshen.win 
+  - DOMAIN-SUFFIX,www.pttime.org 
+  - DOMAIN-SUFFIX,t.hddolby.com 
+  - DOMAIN-SUFFIX,tracker.cinefiles.info
