@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,discfan.xyz
   - DOMAIN-SUFFIX,hdatmos.club
-  - DOMAIN-SUFFIX,hdfans.org
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdpt.xyz
   - DOMAIN-SUFFIX-SUFFIX,hdvideo.one
@@ -49,6 +48,5 @@ payload:
   - DOMAIN-SUFFIX,www.htpt.cc 
   - DOMAIN-SUFFIX,www.nicept.net 
   - DOMAIN-SUFFIX,www.oshen.win 
-  - DOMAIN-SUFFIX,www.pttime.org 
   - DOMAIN-SUFFIX,t.hddolby.com 
   - DOMAIN-SUFFIX,tracker.cinefiles.info
