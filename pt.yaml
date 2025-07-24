@@ -50,3 +50,7 @@ payload:
   - DOMAIN-SUFFIX,www.oshen.win 
   - DOMAIN-SUFFIX,t.hddolby.com 
   - DOMAIN-SUFFIX,tracker.cinefiles.info
+  - DOMAIN-SUFFIX,tracker.qingwa.pro
+  - DOMAIN-SUFFIX,tracker.qingwapt.com
+  - DOMAIN-SUFFIX,tracker.qingwapt.org
+  - DOMAIN-SUFFIX,t.ubits.club
