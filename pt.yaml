@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,discfan.xyz
   - DOMAIN-SUFFIX,hdatmos.club
@@ -11,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,on.springsunday.net
   - DOMAIN-SUFFIX,pt.btschool.club
   - DOMAIN-SUFFIX,pt.ourhelp.club
-  - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,ptchina.org
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,rousi.zip
